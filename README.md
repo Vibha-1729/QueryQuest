@@ -2,6 +2,12 @@
 
 Welcome to the **QueryQuest Weekly Assignments** repository. This repository is used for submitting and tracking weekly assignments.
 
+## A Quick Note
+
+The weekly assignments are non-evaluative and are meant to help you learn, experiment and stay consistent throughout the program.
+
+Feel free to discuss ideas and approaches with your peers, but please make sure that the final submission you upload is your own work. If the same assignment is submitted by multiple participants under different names, all involved participants will not be given ratification, even if they complete the Mid-Term and End-Term evaluations.
+
 ## Submission Guidelines
 
 ### File Naming Convention
